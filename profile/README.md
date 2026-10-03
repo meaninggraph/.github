@@ -26,8 +26,12 @@ The first worked example is being written for the
 
 Early. The file format is a first draft and will change. The first repository of
 universal concepts is [meaninggraph/core](https://github.com/meaninggraph/core).
+Registered graphs are listed in [meaninggraph/registry](https://github.com/meaninggraph/registry),
+an inGitDB database checked on every change.
 
 ## Links
 
 - Website: [meaninggraph.io](https://meaninggraph.io)
+- Universal concepts: [meaninggraph/core](https://github.com/meaninggraph/core)
+- Registry: [meaninggraph/registry](https://github.com/meaninggraph/registry)
 - ModelSpec: [github.com/specscore/modelspec](https://github.com/specscore/modelspec)

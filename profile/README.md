@@ -1,0 +1,33 @@
+# MeaningGraph
+
+**Shared, reusable meanings for data.**
+
+A column called `Country`, `BillingCountry` or `cntry_code` means the same thing in a
+thousand databases, and every tool, analyst and AI agent works that out again from scratch.
+MeaningGraph writes such meanings down once, as small open files, so that people and
+software can reuse them: what a *country*, an *invoice* or a *sale* is, what it is also
+called, how it is measured, and which fields of a particular dataset carry it.
+
+## How it fits together
+
+- **Universal concepts** (country, currency and money, invoice, customer, population,
+  *per capita* and more) live in this organisation and are versioned like code.
+- **A dataset's meaning file** extends and refers to those concepts, and binds them to its
+  own fields, which are described in [ModelSpec](https://github.com/specscore/modelspec),
+  an open, storage-neutral data model language.
+- **Tools read both.** A query tool or an AI agent can then answer "which countries buy
+  the most?" knowing which field means *country*, which means *sale*, and how to compare
+  them fairly.
+
+The first worked example is being written for the
+[Chinook sample database](https://github.com/datatug/chinookdb) (chinookdb.com).
+
+## Status
+
+Early. The file format is a first draft and will change. Expect the first repository of
+universal concepts here soon.
+
+## Links
+
+- Website: [meaninggraph.io](https://meaninggraph.io)
+- ModelSpec: [github.com/specscore/modelspec](https://github.com/specscore/modelspec)

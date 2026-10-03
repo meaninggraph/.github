@@ -24,8 +24,8 @@ The first worked example is being written for the
 
 ## Status
 
-Early. The file format is a first draft and will change. Expect the first repository of
-universal concepts here soon.
+Early. The file format is a first draft and will change. The first repository of
+universal concepts is [meaninggraph/core](https://github.com/meaninggraph/core).
 
 ## Links
 

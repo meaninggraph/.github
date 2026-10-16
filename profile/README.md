@@ -19,6 +19,10 @@ called, how it is measured, and which fields of a particular dataset carry it.
   the most?" knowing which field means *country*, which means *sale*, and how to compare
   them fairly.
 
+## Used in DataTug development
+
+[DataTug](https://datatug.app) is working on connecting its model structure to shared meanings in this graph, alongside ModelSpec. The semantic integration is ongoing. [Explore the tools behind DataTug](https://datatug.app/en/under-the-hood/tools-we-built/#contracts).
+
 The first worked example is being written for the
 [Chinook sample database](https://github.com/datatug/chinookdb) (chinookdb.com).
 

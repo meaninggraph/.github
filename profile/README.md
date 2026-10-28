@@ -8,6 +8,12 @@ MeaningGraph writes such meanings down once, as small open files, so that people
 software can reuse them: what a *country*, an *invoice* or a *sale* is, what it is also
 called, how it is measured, and which fields of a particular dataset carry it.
 
+## Watch
+
+<a href="https://youtu.be/FQKSkWI0qDM"><img src="https://meaninggraph.io/images/intro-film-poster.jpg" alt="MeaningGraph.I/O — What a number means: watch the intro film (1:43)" width="560"></a>
+
+▶ **[What a number means — the MeaningGraph.I/O intro film (1:43)](https://youtu.be/FQKSkWI0qDM)**
+
 ## How it fits together
 
 - **Universal concepts** (country, currency and money, invoice, customer, population,
